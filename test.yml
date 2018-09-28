@@ -12,7 +12,7 @@ teams:
     members:
       - name:    Doronjo
         age:     24
-        leader:  yes
+        leader:  no
       - name:    Boyakkie
         age:     25
       - name:    Tonzuraa
